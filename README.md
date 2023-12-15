@@ -1,2 +1,3 @@
 # Projet-Git
-Mathis Latimier et Ethan
+Mathis Latimier
+Ethan Gunzburger
